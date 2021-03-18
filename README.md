@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prolifick1
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning: full stack javascript/python/PostgreSQL development
+- 🌱 I’m currently learning: web development with javascript/python/PostgreSQL 
 - 💞️ I’m looking to collaborate on: education apps, video streaming, documentation
 - 📫 How to reach me: TBD
 
