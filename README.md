@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prolifick1
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning: web development with javascript/python/PostgreSQL 
-- 💞️ I’m looking to collaborate on: building apps, writing documentation
+- 👀 I’m interested in learning web security, arduino/pi
+- 🌱 I’m currently learning: web development with javascript/python/PostgreSQL, Mandarin Chinese
+- 💞️ I’m looking to collaborate on: building web apps, writing documentation
 - 📫 How to reach me: TBD
 
 <!---
