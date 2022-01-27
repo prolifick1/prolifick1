@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prolifick1
-- 👀 I’m interested in learning web security, arduino/pi
-- 🌱 I’m currently learning: web development with javascript/python/PostgreSQL, 中文
-- 💞️ I’m looking to collaborate on: building web apps, writing documentation
+- 👀 I’m interested in learning web development, web scraping
+- 🌱 I’m currently learning: web development with javascript/django/PostgreSQL, Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on: web apps, unit tests, documentation
 - 📫 How to reach me: TBD
 
 <!---
